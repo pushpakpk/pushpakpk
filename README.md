@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pushpak</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Learner</h3>
 
-- 🔭 I’m currently working on **frontend**
+- 🔭 I’m currently working on **WEB DEVELOPMENT**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
